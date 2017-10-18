@@ -1,4 +1,6 @@
-function getVowels(str) {
-    var m = str.match(/[aeiou]/gi);
+function getConsonants(str) {
+    var m = str.match(/[bcdfghjklmnpqrstvxzwy]/gi);
     return m === null ? 0 : m.length;
-} // count vowels
+} // count consonants
+
+console.log(getConsonants("happy"));
