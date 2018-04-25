@@ -1,6 +1,7 @@
 # JavaScript
 ----
-
+> Closure: modern module pattern
+>
 ```js
 var foo = (function(){
   var publicAPI = {
