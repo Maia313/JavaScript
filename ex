@@ -1,4 +1,4 @@
-```javascript
+```js
 var game;
 var player;
 var computer;
