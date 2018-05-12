@@ -1,4 +1,4 @@
-´´´js
+´´´javascript
 var game;
 var player;
 var computer;
