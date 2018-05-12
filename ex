@@ -1,4 +1,4 @@
-´´´javascript
+```javascript
 var game;
 var player;
 var computer;
@@ -174,4 +174,4 @@ function Game(){
 			
 	    }
 }
-´´´
+```
